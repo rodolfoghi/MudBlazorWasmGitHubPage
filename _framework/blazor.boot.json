@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MudBlazorWasmGitHubPage.Client",
   "resources": {
-    "hash": "sha256-uKzz11sDHa2Ufp86Af7/exSUFZgRVRkXdWmI6lGcReI=",
+    "hash": "sha256-pwrZgbpHmcYEwXPYLAPjAFmsvv+7TysPWPDOvbFGqCU=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.Forms.p4cmqynr10.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.fry14h8rc6.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -21,7 +21,7 @@
       "Microsoft.JSInterop.agnux60n3l.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.8eb000j8w7.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
       "MudBlazor.esyne82x6f.wasm": "MudBlazor.wasm",
-      "MudBlazorWasmGitHubPage.Client.h31no3qeqw.wasm": "MudBlazorWasmGitHubPage.Client.wasm",
+      "MudBlazorWasmGitHubPage.Client.p6sh9jgfzo.wasm": "MudBlazorWasmGitHubPage.Client.wasm",
       "System.Collections.Concurrent.u7gsdlu87c.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.f1ce80ns32.wasm": "System.Collections.Immutable.wasm",
       "System.Collections.56tl68we7j.wasm": "System.Collections.wasm",
@@ -85,7 +85,7 @@
       "Microsoft.JSInterop.agnux60n3l.wasm": "sha256-xtQtSoK56ZLcZdr1TPIw4dex5O90dyRzRhWC9Coj9J8=",
       "Microsoft.JSInterop.WebAssembly.8eb000j8w7.wasm": "sha256-sGms9Oai1ztzgfMsqBvmeKwa5ZyGWr/AEXr6thw0lso=",
       "MudBlazor.esyne82x6f.wasm": "sha256-3l0jRuO42HVKkWCWd9fcRapkWq3Ukri1Hd0MH+HxHCM=",
-      "MudBlazorWasmGitHubPage.Client.h31no3qeqw.wasm": "sha256-s3Zf1+N9ptfzxQfgktizqKYgXXIlq243wT5dC/3DsaY=",
+      "MudBlazorWasmGitHubPage.Client.p6sh9jgfzo.wasm": "sha256-D8I4UxaaqDeQQulURRhCvgWf8kIbIIG+KCrJYnEvbdk=",
       "System.Collections.Concurrent.u7gsdlu87c.wasm": "sha256-GsKNi0B5lHsrflH6fzNCU11mj0+KgA9GLy719SGkpkc=",
       "System.Collections.Immutable.f1ce80ns32.wasm": "sha256-jVMElT4Dv5+ODKXbya+BHVwXNU0K+AE4iPSNYvfLEXc=",
       "System.Collections.56tl68we7j.wasm": "sha256-ExM1XlNsdTTbPERb3R+nK1SD4ejVqIzpBUPWQswcPKA=",
